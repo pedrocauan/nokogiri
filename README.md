@@ -1,5 +1,5 @@
 # nokogiri
-Nokogiri é uma GEM ruby utilizada para fazer webscraping. O Script tem como função acessar o site da stardew valley wiki, pegar o nome de todos os aldeões e salvar em um arquivo de texto após ser executado.
+Nokogiri é uma GEM ruby utilizada para fazer webscraping(coleta de dados de um site externo). O Script tem como função acessar o site da stardew valley wiki, pegar o nome de todos os aldeões e salvar em um arquivo de texto após ser executado.
 
 ## Dependencias
 ### gem install nokogiri
